@@ -1,4 +1,4 @@
-# Bienvenue sur github!
+# Bienvenue sur github/travail-collaboratif!
 
 Déposer vos travaux ici
 
