@@ -1,0 +1,14 @@
+/* Commentaire css*/
+
+body{
+	background-color:black;
+}
+
+h1{
+	color:white
+}
+
+p {
+	color:red;
+	border:1px dotted white;
+}
