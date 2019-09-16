@@ -1,4 +1,4 @@
 # Bienvenue sur github!
 
-Déposer vos travaux ici:
+Déposer vos travaux ici
 
