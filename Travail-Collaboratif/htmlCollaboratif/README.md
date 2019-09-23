@@ -21,4 +21,4 @@ Créer une page web avec les connaissances du cours développement web 1.
 
 En utilisant vos connaissances et votre imagination pour embellir la page web Prenom.html
 
-5. Transmettre votre dossier css dans le répertoire css en renommant le dossier par Votre Nom
+5. Transmettre votre dossier css dans le répertoire css en renommant le dossier par Votre_Nom
