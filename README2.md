@@ -1,4 +1,4 @@
-1. Créer un dossier er renommer le <<git>> dans votre H:
+1. Créer un dossier er renommer le git dans votre H:
 
 2. Ouvrez le logiciel git bash.
 
