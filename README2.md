@@ -2,9 +2,9 @@
 
 2. Ouvrez le logiciel git bash.
 
-3. Entrer <<cd /h>> (chemin d'accès où vous avez créer le dossier <<git>>.
+3. Entrer <<cd /h>> (chemin d'accès où vous avez créer le dossier git sans masjuscule.
 
-4. Entrer <<ls>> pour afficher la liste de tout les fichiers dans le repertoire ou vous avez défini la commande pour être certain que votre dossier y est bien.
+4. Entrer ls pour afficher la liste de tout les fichiers dans le repertoire ou vous avez défini la commande pour être certain que votre dossier y est bien.
 
 5. cd git/
 
