@@ -24,6 +24,6 @@
 ce qui signifie Votre H: dans le dossier git (votre page doit être dans ce dossier)
 
 13. git push
-                             Note: en cas d'erreur avec git push essayer "git pull"
+                            =Note: en cas d'erreur avec git push essayer "git pull"
 
 14. git commit
