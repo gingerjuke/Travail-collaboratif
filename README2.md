@@ -22,3 +22,7 @@
 
 12. Transferer votre nouvelle page sur github avec la commande git add Page1_Votre_Prenom.html (Comme à l'étape 11) dans le chemin d'accès affiché sur la console
 ce qui signifie Votre H: dans le dossier git (votre page doit être dans ce dossier)
+
+13. git push
+
+14. git commit
