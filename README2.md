@@ -2,7 +2,7 @@
 
 2. Ouvrez le logiciel git bash.
 
-3. Entrer <<cd h/git/>> (chemin d'accès où vous avez créer le dossier git sans masjuscule.
+3. Entrer <<cd h/git/>> (chemin d'accès où vous avez le dossier git.)
 
 4. Aller sur github et prenez le lien de votre dépôt github
 
