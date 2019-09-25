@@ -1,8 +1,7 @@
 # Bienvenue sur github/travail-collaboratif!
 
 ```diff
-+ Travail
-- Collaboratif
-! text in orange
++ Trav-ail
+- Colla!boratif
 # text in gray
 ```
