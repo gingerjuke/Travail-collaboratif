@@ -2,7 +2,7 @@
 
 +1. Créer un dossier er renommer le git dans votre H:
 
-+2. Ouvrez le logiciel git bash. -(Touche Windows + Taper sur votre clavier git bash)
++2. Ouvrez le logiciel git bash. (Touche Windows + Taper sur votre clavier git bash)
 
 +3. Entrer <<cd h/git/>> (chemin d'accès où vous avez le dossier git.)
 
