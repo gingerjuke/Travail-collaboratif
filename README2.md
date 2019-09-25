@@ -1,8 +1,4 @@
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
 
 !1. Créer un dossier er renommer le git dans votre H:
 
